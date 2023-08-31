@@ -46,7 +46,7 @@ main {
 }
 
 .top {
-  min-height: 100vmin;
+  min-height: 80vh;
   background: linear-gradient(#9614a1, #2f0a69);
   color: white;
   font-weight: 500;
